@@ -7,5 +7,7 @@ int main()
 
 	cout << "This is my first Git Assignment" << endl;
 
+	cout << "I think I am doing really well" << endl;
+
 	return 0;
 }
